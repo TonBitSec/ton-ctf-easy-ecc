@@ -1,6 +1,7 @@
 # 🚚 Jetton Implementation Template by Howard
-
-This project is targeting to provide a template for the Jetton Implementation. It's a good start point for the developer to start the Jetton Implementation.
+#
+😘
+This project istargeting to provide a template for the Jetton Implementation. It's a good start point for the developer to start the JettonImplementation.
 
 ### Usage
 
